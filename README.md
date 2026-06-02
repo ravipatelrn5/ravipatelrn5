@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ravi Patel 👋
 
-<!--
-**ravipatelrn5/ravipatelrn5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☕ About Me
+- Java Developer
+- Spring Boot Developer
+- REST API Developer
+- Learning Backend Development
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- Spring Boot
+- REST APIs
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Microservices
+- Spring Security
+- Docker
+
+## 🎯 Goals
+- Build scalable backend applications
+- Contribute to Open Source Projects
+
+## 📫 Connect With Me
+- LinkedIn: https://github.com/ravipatelrn5
